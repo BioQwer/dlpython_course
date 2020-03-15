@@ -17,6 +17,7 @@
 1. Python 3.
 2. Библиотека глубокого обучения [Keras](https://keras.io/).
 3. Библиотеки  [TensorFlow](https://www.tensorflow.org/) или [Theano](http://deeplearning.net/software/theano/) (используются в качестве вычислительного бекенда для Keras).
+4. Cuda 10.0 + cuDNN при версии tensorflow 1.15.2 совместимы + env переменные
 
 Инструкция по установке:
 
